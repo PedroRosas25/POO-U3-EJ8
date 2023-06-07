@@ -1,0 +1,47 @@
+[
+      {
+        "cuil": "123456789",
+        "apellido": "Perez",
+        "nombre": "Juan",
+        "sueldobasico": 25000,
+        "antiguedad": 5,
+        "tipo": "docente",
+        "carrera": "Ingenieria",
+        "cargo": "exclusivo",
+        "catedra": "Algoritmos"
+      },
+      {
+        "cuil": "987654321",
+        "apellido": "Gonzalez",
+        "nombre": "Maria",
+        "sueldobasico": 28000,
+        "antiguedad": 10,
+        "tipo": "personal de apoyo",
+        "categoria": "2"
+      },
+      {
+        "cuil": "456789123",
+        "apellido": "Lopez",
+        "nombre": "Pedro",
+        "sueldobasico": 30000,
+        "antiguedad": 3,
+        "tipo": "investigador",
+        "area": "Ciencias Sociales",
+        "tipoinvestigacion": "Cualitativa"
+      },
+      {
+        "cuil": "321654987",
+        "apellido": "Rodriguez",
+        "nombre": "Laura",
+        "sueldobasico": 32000,
+        "antiguedad": 7,
+        "tipo": "docente investigador",
+        "carrera": "Medicina",
+        "cargo": "simple",
+        "catedra": "Anatomia",
+        "area": "Ciencias de la Salud",
+        "tipoinvestigacion": "Experimental",
+        "categoriainvestigacion": "II",
+        "importeextra": 5000
+      }
+]
